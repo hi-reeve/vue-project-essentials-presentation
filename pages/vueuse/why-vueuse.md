@@ -11,4 +11,3 @@
 - Page Metadata composable available with `@vueuse/head`
 
 Documentation: [VueUse](https://vueuse.org/guide/)
-
