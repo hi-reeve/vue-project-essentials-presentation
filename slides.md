@@ -33,3 +33,20 @@ src: ./pages/typescript/statistics-2.md
 ---
 src: ./pages/typescript/example.md
 ---
+
+---
+src: ./pages/vueuse/intro.md
+---
+
+---
+src: ./pages/vueuse/why-vueuse.md
+---
+---
+src: ./pages/vueuse/example.md
+---
+---
+src: ./pages/vueuse/example-2.md
+---
+---
+src: ./pages/vueuse/example-3.md
+---

@@ -1,5 +1,5 @@
 ---
-lineNumbers: true
+clicks: 9
 ---
 
 # Typescript vs Javascript
@@ -13,7 +13,7 @@ lineNumbers: true
 const user = {
 	first_name: "Christopher",
 	last_name: "Reeve",
-	email: "reeve@creeve.me",
+	email: "work@creeve.me",
 	phone: "+62-851xx",
 	age: 26,
 }
