@@ -82,3 +82,37 @@ src: ./pages/vue-query/why.md
 ---
 src: ./pages/vue-query/example.md
 ---
+---
+src: ./pages/pinia/intro.md
+---
+---
+src: ./pages/pinia/why.md
+---
+---
+src: ./pages/pinia/example.md
+---
+---
+src: ./pages/auto-import/intro.md
+---
+---
+src: ./pages/auto-import/example.md
+---
+
+---
+src: ./pages/unplugin-icons/intro.md
+---
+---
+src: ./pages/unplugin-icons/features.md
+---
+---
+src: ./pages/unplugin-icons/example.md
+---
+---
+src: ./pages/unplugin-components/intro.md
+---
+---
+src: ./pages/unplugin-components/features.md
+---
+---
+src: ./pages/unplugin-components/example.md
+---
