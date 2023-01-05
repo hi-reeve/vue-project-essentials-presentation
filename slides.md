@@ -73,3 +73,12 @@ src: ./pages/vue-router/why.md
 ---
 src: ./pages/vue-router/example.md
 ---
+---
+src: ./pages/vue-query/intro.md
+---
+---
+src: ./pages/vue-query/why.md
+---
+---
+src: ./pages/vue-query/example.md
+---
