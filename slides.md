@@ -7,11 +7,24 @@ src: ./pages/intro.md
 ---
 
 ---
+src: ./pages/motivation.md
+---
+---
 src: ./pages/disclaimer.md
 ---
 
 ---
 src: ./pages/prerequisites.md
+---
+
+---
+src: ./pages/vite/intro.md
+---
+---
+src: ./pages/vite/why.md
+---
+---
+src: ./pages/vite/comparison.md
 ---
 
 ---
