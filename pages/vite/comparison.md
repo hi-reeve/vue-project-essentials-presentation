@@ -3,7 +3,7 @@
 
 <div class="grid ">
 <figure class="mx-auto" >
-<img src="/images/vite/comparison.webp" class="max-w-md" alt="typescript loved statistic by stackoverflow developer survey 2022" />
+<img src="/images/vite/comparison.webp" class="max-w-md" alt="Vite vs Webpack speed comparison" />
 <figcaption class="text-xs text-center mt-2">Vite vs Webpack speed comparison</figcaption>
 </figure>
 

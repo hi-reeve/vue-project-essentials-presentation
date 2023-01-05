@@ -63,3 +63,13 @@ src: ./pages/vueuse/example-2.md
 ---
 src: ./pages/vueuse/example-3.md
 ---
+
+---
+src: ./pages/vue-router/intro.md
+---
+---
+src: ./pages/vue-router/why.md
+---
+---
+src: ./pages/vue-router/example.md
+---
