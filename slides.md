@@ -92,6 +92,15 @@ src: ./pages/pinia/why.md
 src: ./pages/pinia/example.md
 ---
 ---
+src: ./pages/vee-validate/intro.md
+---
+---
+src: ./pages/vee-validate/why.md
+---
+---
+src: ./pages/vee-validate/example.md
+---
+---
 src: ./pages/auto-import/intro.md
 ---
 ---

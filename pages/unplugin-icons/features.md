@@ -12,3 +12,6 @@
 - 📲 Auto Importing - Use icons as components directly in your template.
 - 🦾 TypeScript support.
 - 🔍 [Browse Icons](https://icones.js.org/)
+
+
+Documentation: [Unplugin Icons repo](https://github.com/antfu/unplugin-icons)

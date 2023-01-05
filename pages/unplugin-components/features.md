@@ -8,3 +8,6 @@
 - 🦾 Full TypeScript support.
 - 🌈 Built-in resolvers for popular UI libraries.
 - 😃 Works perfectly with [unplugin-icons](https://github.com/antfu/unplugin-icons).
+
+
+Documentation: [Unplugin Vue Components repo](https://github.com/antfu/unplugin-vue-components)
