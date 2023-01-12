@@ -1,4 +1,4 @@
-# Why Vite ?
+# Why VeeValidate ?
 
 - UI Agnostic
 - Devtools Support
