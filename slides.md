@@ -125,3 +125,6 @@ src: ./pages/unplugin-components/features.md
 ---
 src: ./pages/unplugin-components/example.md
 ---
+---
+src: ./pages/bonus.md
+---
